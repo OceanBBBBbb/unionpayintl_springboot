@@ -12,3 +12,5 @@
 改装后的版本就是基于springboot的，出后端版本的（部分内容）。
 入口方式就是直接浏览器访问，比如请求支付：
 `http://localhost:8899/api/purchase?orderId=20190919190001&txnTime=20190919190001&txnAmt=10
+
+为了方便测试，采用了get方式
